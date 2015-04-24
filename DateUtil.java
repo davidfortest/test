@@ -20,14 +20,13 @@ aaa
 		return new SimpleDateFormat(parttern);
 	}
 	
-	
 	/**
-	 * oooooooooooooooooooooooo
-	 * oooooooooooooooooooooooo
-	 * oooooooooooooooooooooooo
-	 * oooooooooooooooooooooooo
+	 * xxxxxxxxxxxxxxx
+	 * xxxxxxxxxxxx
+	 * xxxxxxxxxxxx
+	 * xxxxxxxxxxxxxxxxxx
 	 */
-	private static SimpleDateFormat getooooo(String parttern) throws RuntimeException {
+	private static SimpleDateFormat xxxxxxxxxxxxxxx(String parttern) throws RuntimeException {
 		return new SimpleDateFormat(parttern);
 	}
 

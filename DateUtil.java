@@ -19,6 +19,16 @@ aaa
 	private static SimpleDateFormat getDateFormat(String parttern) throws RuntimeException {
 		return new SimpleDateFormat(parttern);
 	}
+	
+	/**
+	 * xxxxxxxxxxxxxxx
+	 * xxxxxxxxxxxx
+	 * xxxxxxxxxxxx
+	 * xxxxxxxxxxxxxxxxxx
+	 */
+	private static SimpleDateFormat xxxxxxxxxxxxxxx(String parttern) throws RuntimeException {
+		return new SimpleDateFormat(parttern);
+	}
 
 	/**
 	 * 获取日期中的某数值。如获取月份

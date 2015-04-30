@@ -2,6 +2,7 @@ package com.util;
 
 public enum DateStyle {
 	xxxxxxxxxxxx
+	ddddddddd
 	MM_DD("MM-dd"),
 	YYYY_MM("yyyy-MM"),
 	YYYY_MM_DD("yyyy-MM-dd"),

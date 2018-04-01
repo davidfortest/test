@@ -2,3 +2,6 @@ localsddd
 localenxo
 shitx
 shitfort
+
+
+today
